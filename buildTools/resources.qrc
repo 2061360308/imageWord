@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>../res/icon/多选按钮.png</file>
+    <file>../res/icon/取消多选.png</file>
+    <file>../res/icon/全选-选择.png</file>
+    <file>../res/icon/删除.png</file>
+    <file>../res/icon/ass-unassigned.png</file>
+    <file>../res/icon/rate-down_finance_line.png</file>
+    <file>../res/icon/查看.png</file>
+    <file>../res/icon/筛选.png</file>
+    <file>../res/icon/统计报告.png</file>
+    <file>../res/icon/16gl-1.png</file>
+    <file>../res/icon/16gl-2.png</file>
+    <file>../res/icon/16gl-3.png</file>
+    <file>../res/icon/16gl-4.png</file>
+    <file>../res/icon/加载中.gif</file>
+    <file>../res/icon/上传文件.png</file>
+    <file>../res/icon/打印.png</file>
+    <file>../res/icon/层次排布.png</file>
+    <file>../res/icon/翻转90度.png</file>
+    <file>../res/icon/翻转90度2.png</file>
+    <file>../res/icon/高级模式.png</file>
+    <file>../res/icon/管理.png</file>
+    <file>../res/icon/开始.png</file>
+    <file>../res/icon/两列.png</file>
+    <file>../res/icon/两行.png</file>
+    <file>../res/icon/模板.png</file>
+    <file>../res/icon/添加.png</file>
+    <file>../res/icon/添加到模板.png</file>
+    <file>../res/icon/添加右击菜单.png</file>
+    <file>../res/icon/斜角缩放.png</file>
+    <file>../res/icon/选择文件.png</file>
+    <file>../res/icon/页边距.png</file>
+    <file>../res/icon/纸张大小.png</file>
+  </qresource>
+  <qresource prefix="template">
+    <file>../res/template/两行两列.png</file>
+    <file>../res/template/两行三列.png</file>
+    <file>../res/template/一行两列.png</file>
+    <file>../res/template/一行三列.png</file>
+    <file>../res/template/一行一列.png</file>
+    <file>../res/template/两行一列.png</file>
+  </qresource>
+  <qresource prefix="app">
+    <file>../dist/layoutImage.exe</file>
+    <file>../dist/registerMenu.exe</file>
+  </qresource>
+</RCC>
